@@ -1,4 +1,4 @@
-package com.restservice.entity;
+//package com.restservice.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
